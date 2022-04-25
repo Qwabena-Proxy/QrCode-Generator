@@ -1,4 +1,4 @@
 # QrCode-Generator
 This a normal qr code generator in python
 # QR code
-![MyQRCode1](https://user-images.githubusercontent.com/100248770/165082932-6ab7ceac-12c1-4b76-8804-5d92a7de4a2f.png)
+![MyQRCode1](https://user-images.githubusercontent.com/100248770/165083730-6ddd9fd0-179b-4cb9-afea-275fd093aff4.png)
