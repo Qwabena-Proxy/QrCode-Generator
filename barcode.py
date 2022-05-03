@@ -18,4 +18,3 @@ img = qr.make_image(fill_color = 'black',
 # Saving as an image file
 img.save('MyQRCode1.png')
 print(img)
-
