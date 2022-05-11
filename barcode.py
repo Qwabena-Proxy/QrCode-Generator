@@ -2,7 +2,7 @@ import qrcode
  
 # Data to be encoded
 data = 'https://github.com/Qwabena-Proxy'
-
+ 
 # Creating an instance of QRCode class
 qr = qrcode.QRCode(version = 1,
                    box_size = 10,
